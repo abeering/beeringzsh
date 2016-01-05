@@ -1,0 +1,15 @@
+#!/usr/bin/perl -w
+# |FILENAME|
+#
+# |EMAIL|     
+# |DATE|
+
+use strict;
+use warnings qw(all);
+use diagnostics;
+
+use version;
+our $VERSION     = qv('0.0.1');
+
+|CURSOR|
+
